@@ -35,7 +35,7 @@ All notes and reminders are stored in **Firebase Database**, ensuring:
 * Java
 * XML
 * Android Studio
-* Firebase Realtime Database / Firestore
+* Firebase Realtime Database / Firestore 
 
 ---
 
