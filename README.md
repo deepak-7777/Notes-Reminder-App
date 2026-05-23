@@ -4,7 +4,7 @@ This repository contains an **online notes and reminder application** where user
 
 ---
 
-## 📚 About
+## 📚 About 
 
 The purpose of this project is to build a note-taking app with online data storage so that users can access their reminders anytime, even after reinstalling the application.
 
