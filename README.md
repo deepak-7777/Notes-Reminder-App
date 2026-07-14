@@ -21,7 +21,7 @@ The purpose of this project is to build a note-taking app with online data stora
 ---
 
 ## ☁️ Firebase Integration
-
+ 
 All notes and reminders are stored in **Firebase Database**, ensuring:
 
 * Secure online storage
